@@ -1,6 +1,6 @@
 {
-  "name": "maglit",
-  "private": true,
+  "name": "encurtador",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
